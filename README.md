@@ -43,4 +43,4 @@ Key cleaning steps includes;
 ‎- Derive meaningful insights from complex, multi-select survey data.
 ‎
 ## Project Preview
-https://github.com/Ifeoma-portfoilo/Coffee-Consumer-Survey-Analysis/commit/d033b502d07d3f286014a429053ae5e6c86bfb97
+https://github.com/Ifeoma-portfoilo/Coffee-Consumer-Survey-Analysis/blob/main/Survey%20Dasboard%201.PNG
